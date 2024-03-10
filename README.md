@@ -1,2 +1,8 @@
 # Demo-Repository
-Intro Practice for Github &amp; My First Repo
+
+**Some description!**
+Intro Practice for Github
+
+## Subheader
+
+My First Repository!
